@@ -12,8 +12,8 @@ warnings.filterwarnings('ignore', category=DeprecationWarning)
 
 
 # Parameters of your app and the id of the profile you want to mess with.
-FACEBOOK_APP_ID     = 'XXXXXXXXXXXXXXX'
-FACEBOOK_APP_SECRET = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+FACEBOOK_APP_ID     = '514255005603332'
+FACEBOOK_APP_SECRET = 'd00a78fa77bf74188860e641e37ca70a'
 FACEBOOK_PROFILE_ID = 'XXXXXX'
 
 
